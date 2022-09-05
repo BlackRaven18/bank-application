@@ -1,0 +1,8 @@
+Date: Thu Apr 28 20:37:26 CEST 2022
+Tytul przelewu: Przelew testowy
+Imie nadawcy: Marek
+Nazwisko nadawcy: Kowalski
+Numer konta nadawcy: 1
+Numer konta odbiorcy 2
+Kwota: 100 PLN
+Stan konta po przelewie: 903,0000 PLN
